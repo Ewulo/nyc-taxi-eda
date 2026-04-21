@@ -26,7 +26,7 @@ from January 2026, sourced from the NYC Taxi & Limousine Commission (TLC).
 - Python 3.11
 - pandas, numpy
 - matplotlib, seaborn
-- geopandas, folium
+- scipy (Pearson correlation)
 
 ## How to Run
 1. Clone the repo
